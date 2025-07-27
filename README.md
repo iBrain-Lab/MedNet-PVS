@@ -1,5 +1,5 @@
 # MUPPET (*M*edNeXt *U*nimodal *P*erivascular s*P*ace *E*xtractor *T*ool)
-<img width="335" height="257" alt="glass_brain_PVS" src="https://github.com/user-attachments/assets/2238b6bd-1317-4fa7-a80d-52df6fa710c5" />
+<img width="335" height="257" alt="image-removebg-preview (1)" src="https://github.com/user-attachments/assets/c09ee3df-6be2-468a-b4ab-7e32937d1875" />
 
 Pretrained models for automated 3D perivascular space (PVS) segmentation in **T1- and T2-weighted MRI**.
 - **T2w models (MedNeXt-L-k5, nnU-Net):**
