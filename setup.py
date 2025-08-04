@@ -27,7 +27,8 @@ setup(name='mednextv1',
             "timm",
             "surface-distance",
             "einops",
-            "ml_collections"
+            "ml_collections",
+            "pillow"
       ],
       entry_points={
           'console_scripts': [
