@@ -12,10 +12,14 @@ Pretrained models for automated 3D perivascular space (PVS) segmentation in **T1
   + Segments PVS in *white matter and basal ganglia*
 
 # Installation
-MUPPET relies on [MedNeXt](https://github.com/MIC-DKFZ/MedNeXt/tree/main). Install MedNeXt (and its dependencies) first:
+This project requires Conda to manage its dependencies. The following commands will set up a dedicated environment and install MUPPET.
 ```
 git clone https://github.com/iBrain-Lab/MUPPET.git MUPPET
 cd MUPPET
+
+conda env create -f environment.yml
+conda activate muppet 
+
 pip install -e .
 ```
 
