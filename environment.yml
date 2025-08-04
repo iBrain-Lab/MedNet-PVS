@@ -1,6 +1,36 @@
 name: muppet
 channels:
+  - pytorch
   - conda-forge
+  - defaults
+
 dependencies:
   - python=3.9
-prefix: /scratch/by84/zlow/conda/envs/muppet
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit   
+
+  - pip
+
+  - pip:
+    - batchgenerators>=0.23
+    - dicom2nifti
+    - einops
+    - matplotlib
+    - medpy
+    - ml_collections
+    - nibabel
+    - nnunetv2 
+    - numpy
+    - pandas
+    - pillow
+    - requests
+    - scikit-image>=0.14
+    - scikit-learn
+    - scipy
+    - SimpleITK
+    - surface-distance
+    - timm
+    - tifffile
+    - tqdm
