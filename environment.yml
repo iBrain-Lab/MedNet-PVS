@@ -1,0 +1,6 @@
+name: muppet
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+prefix: /scratch/by84/zlow/conda/envs/muppet
