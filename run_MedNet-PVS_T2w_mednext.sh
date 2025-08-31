@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# MUPPET: MedNeXt Unimodal Perivascular sPace Extractor Tool
+# MedNet-PVS
 # Version: T2w_mednext
 # Runs PVS segmentation on T2-weighted MRI images (White Matter PVS only)
 
 # --- REQUIRED: Edit these variables to your own directories! ---
-WEIGHTS_DIR="/home/zlow/by84/Brandon/mednext_muppet/MUPPET_weights/"
-INPUT_DIR="/home/zlow/by84/Brandon/mednext_muppet/input_images_T2w/"
-OUTPUT_DIR="/home/zlow/by84/Brandon/mednext_muppet/output_images/"
+WEIGHTS_DIR="/home/zlow/by84/Brandon/MedNet-PVS/MUPPET_weights/"
+INPUT_DIR="/home/zlow/by84/Brandon/MedNet-PVS/input_images_T2w/"
+OUTPUT_DIR="/home/zlow/by84/Brandon/MedNet-PVS/output_images/"
 
 # --- Export environment variables ---
 export nnUNet_raw_data_base=$WEIGHTS_DIR/nnUNet_raw_data_base
