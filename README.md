@@ -12,7 +12,7 @@ Pretrained models for automated 3D perivascular space (PVS) segmentation in **T1
   + Segments PVS in *white matter and basal ganglia*
 
 # Installation
-This project requires Conda to manage its dependencies. The following commands will set up a dedicated environment and install MUPPET.
+This project requires Conda to manage its dependencies. The following commands will set up a dedicated environment and install MedNet-PVS.
 ```
 git clone https://github.com/iBrain-Lab/MedNet-PVS.git MedNet-PVS
 cd MedNet-PVS
