@@ -1,4 +1,4 @@
-name: muppet
+name: MedNet-PVS
 channels:
   - pytorch
   - conda-forge
