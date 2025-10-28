@@ -25,7 +25,7 @@ pip install -e .
 
 # Inference Usage
 **1. Download and set up pretrained weights:**
-   + Download weights from the [Releases](https://bridges.monash.edu/articles/dataset/PINGU_Weights/27176523?file=49632888) page.
+   + Download weights from the [Releases](https://drive.google.com/drive/folders/16aoNihCSb5QtX9Zp7VCDeEsAoKM4ge69?usp=drive_link) page.
    + Your directory should look like this:
 ```
 your/chosen/path/
