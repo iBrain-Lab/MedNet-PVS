@@ -25,7 +25,7 @@ pip install -e .
 
 # Inference Usage
 **1. Download and set up pretrained weights:**
-   + Download weights from the [Releases](https://drive.google.com/drive/folders/16aoNihCSb5QtX9Zp7VCDeEsAoKM4ge69?usp=drive_link) page or [Bridges](https://bridges.monash.edu/account/items/29588624).
+   + Download weights from the [Releases](https://drive.google.com/drive/folders/16aoNihCSb5QtX9Zp7VCDeEsAoKM4ge69?usp=drive_link) page or [Bridges](https://bridges.monash.edu/articles/dataset/MUPPET/29588624).
    + Your directory should look like this:
 ```
 your/chosen/path/
